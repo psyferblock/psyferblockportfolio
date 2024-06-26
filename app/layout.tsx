@@ -42,7 +42,7 @@ export default function RootLayout({
 			<head>
 				<link
 					rel="icon"
-					href="/jsm-logo.png"
+					href="/psyfer.png"
 					sizes="any"
 				/>
 			</head>
